@@ -71,7 +71,7 @@ html {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: url("/assets/slider/slider1.jpg") top center / cover no-repeat;
+  background: url("./assets/slider/slider1.jpg") top center / cover no-repeat;
 }
 
 h1 {
